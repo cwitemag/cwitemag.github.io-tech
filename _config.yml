@@ -1,0 +1,7 @@
+# Site settings
+title: English
+description: Articulate literary works by diligent students
+keywords: CWIT, English
+author: CWIT
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site

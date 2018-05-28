@@ -1,0 +1,18 @@
+---
+title:  "Hyperloop Transportation System"
+subtitle: ""
+author: "Mechanical"
+avatar: "img/authors/wferr.png"
+image: "img/hyperloop1.jpg"
+date:   2018-02-20 12:12:12
+---
+Hyperloop Transportation System
+
+The conventional modes of transportation of people consists of four unique types and that are rail, road, water, and air. These modes of transport tend to be either relatively slow, expensive or a combination of both. Hyperloop is a new mode of transport that seeks to change this pattern by being both fast and inexpensive for people and goods. Hyperloop is a proposed mode of passenger and freight transportation that propels a capsule-like vehicle through a near-vacuum tube at more than airline speed. The pods would accelerate to cruising speed gradually using a linear electric motor and glide above their track using passive magnetic levitation or air bearings. Hyperloop consists of a low pressure tube with capsules that are transported at both low and high speeds throughout the length of the tube. The capsules are supported on a cushion of air, featuring pressurized air and aerodynamic lift. Passengers may enter and exit Hyperloop at stations located either at the ends of the tube, or branches along the tube length. It quickly becomes apparent just how dramatically the Hyperloop could change transportation, road congestion and minimize the carbon footprint globally. With the Hyperloop, extremely fast, inexpensive intercity travel would be widely accessible. If both people and goods can move more quickly and comparatively cheaply, rapid growth is a logical outcome. 
+
+#### Download Link:
+<a href="https://tinyurl.com/hyperloop12390">Hyperloop Transportation System</a>
+
+
+###### - Omkar Govind  Karlekar, Akshay Shashikant Ghule
+###### DME

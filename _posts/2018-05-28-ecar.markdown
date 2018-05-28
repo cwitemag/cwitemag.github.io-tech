@@ -1,0 +1,17 @@
+---
+title:  "Hybrid Electric Car"
+subtitle: ""
+author: "Mechanical"
+avatar: "img/authors/wferr.png"
+image: "img/ecar.jpg"
+date:   2018-02-20 12:12:12
+---
+Hybrid Electric Car
+
+Now a days petrol, CNG or Diesel cars are causing a humongous problem by emitting polluted gases and polluting our Earth. They also are using the crude oil reserves that our planet has got and because of this reason one day can come where there will be no drop of crude oil underneath our surface. The simple solution for this is Hybrid Electric car. Hybrid Electric car is an automobile which works on electricity and it can generate electricity by renewable energy resources. The electric motor creates an efficiency of 95% which is too high in comparison to conventional motor engine which can create an efficiency of 35%. So Hybrid electric car can make our Earth pollution free as major reason to pollution on Earth is due to automobile and hence we are going to present about how an Hybrid electric car is constructed, how it works and many other things.
+
+#### Download Link:
+<a href="https://tinyurl.com/ecar12390">Hybrid Electric Car</a>
+
+
+###### -  Vispi Nevile Karkaria, Saurabh Ramesh Solanke    
